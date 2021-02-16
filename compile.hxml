@@ -1,0 +1,3 @@
+-cp src
+--js export/handler.js
+--main Handler
